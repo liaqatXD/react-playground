@@ -8,10 +8,11 @@ Whether you're new to React or brushing up your skills, these projects cover ess
 
 ## 📁 Projects
 
-| Project                   | Description                                                                              |
-| ------------------------- | ---------------------------------------------------------------------------------------- |
-| [📝 ToDo App](#todo-app)  | A simple To-Do List app where users can add, delete, and mark tasks as completed or not. |
-| [🍽 Meals App](#meals-app) | A React app that fetches and displays meal categories from TheMealDB API.                |
+| Project                              | Description                                                                              |
+| ------------------------------------ | ---------------------------------------------------------------------------------------- |
+| [📝 ToDo App](#todo-app)             | A simple To-Do List app where users can add, delete, and mark tasks as completed or not. |
+| [🍽 Meals App](#meals-app)            | A React app that fetches and displays meal categories from TheMealDB API.                |
+| [➗ Calculator App](#calculator-app) | A basic calculator for expressions evaluation.                                           |
 
 ---
 
@@ -48,6 +49,27 @@ A simple React project that fetches and displays various meal categories from [T
 React, JavaScript, HTML, CSS
 
 > A great project to understand API calls and conditional rendering in React.
+
+---
+
+### ➗ <a name="calculator-app"></a> Calculator App
+
+A simple calculator built using React that performs basic arithmetic operations. It uses an input-based interface where users can enter expressions just like on a regular calculator.
+
+- ➕ Add
+- ➖ Subtract
+- ✖️ Multiply
+- ➗ Divide
+
+![calculator-app](./images/calculator.png)
+
+**Tech Used:**  
+React, JavaScript, HTML, CSS
+
+⚠️ **Note:** This app uses JavaScript's built-in `eval()` function to evaluate expressions.
+
+> While convenient for learning and quick prototyping, `eval()` is **not recommended** for production apps due to **security vulnerabilities** and **unpredictable behavior**.  
+> Consider using a library like [`mathjs`](https://mathjs.org/) or building a custom parser for safer calculations.
 
 ---
 
