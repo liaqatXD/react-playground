@@ -75,6 +75,56 @@ React, JavaScript, HTML, CSS
 > Consider using a library like [`mathjs`](https://mathjs.org/) or building a custom parser for safer calculations.
 
 ---
+### 🌓 <a name="toggle-theme"></a> Toggle Theme
+
+A lightweight project that demonstrates how to implement dark and light theme toggling in React. Easily extendable with CSS variables and `data-theme` attributes for more themes.
+
+- 🌞 Light mode  
+- 🌙 Dark mode  
+- 🎨 Customizable via CSS  
+
+![toggle-theme](./images/toggleTheme.png)
+
+**Tech Used:**  
+React, JavaScript, CSS
+
+> A perfect intro to theming and using CSS-in-JS or traditional stylesheets with dynamic class handling.
+
+---
+
+### 🔍 <a name="toggle-search"></a> Toggle Search
+
+A neat UI interaction where clicking the search icon dynamically displays a search input field and changes the background for focus mode.
+
+- 🔘 Toggle input visibility  
+- 🎯 Focus-based UI transitions  
+- 🧠 State-driven background control  
+
+![toggle-search](./images/toggleSearch.png)
+
+**Tech Used:**  
+React, JavaScript, CSS
+
+> Learn how to handle conditional rendering and focus-based styling in a clean, user-friendly way.
+
+---
+
+### 💬 <a name="testimonials"></a> Testimonials
+
+A simple testimonial carousel that allows users to view different feedback messages using next and previous buttons.
+
+- ⏭ Next/Previous navigation  
+- 🧭 Basic index state tracking  
+- 🖼 Great for learning list mapping and transitions  
+
+![testimonials](./images/testimonials.png)
+
+**Tech Used:**  
+React, JavaScript, HTML, CSS
+
+> This project helps solidify array mapping, component reuse, and dynamic UI updates.
+
+---
 
 ### 📦 How to Run
 
