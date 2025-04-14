@@ -13,6 +13,9 @@ Whether you're new to React or brushing up your skills, these projects cover ess
 | [📝 ToDo App](#todo-app)             | A simple To-Do List app where users can add, delete, and mark tasks as completed or not. |
 | [🍽 Meals App](#meals-app)            | A React app that fetches and displays meal categories from TheMealDB API.                |
 | [➗ Calculator App](#calculator-app) | A basic calculator for expressions evaluation.                                           |
+| [🌓 Toggle Theme](#toggle-theme)         | A simple app demonstrating light and dark theme toggling using state and CSS variables.       |
+| [🔍 Toggle Search](#toggle-search)       | A dynamic search bar that appears on click and changes background for better focus.           |
+| [💬 Testimonials](#testimonials)         | A testimonial slider with next/previous navigation for viewing user feedback.                 |
 
 ---
 
