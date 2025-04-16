@@ -16,6 +16,8 @@ Whether you're new to React or brushing up your skills, these projects cover ess
 | [🌓 Toggle Theme](#toggle-theme)         | A simple app demonstrating light and dark theme toggling using state and CSS variables.       |
 | [🔍 Toggle Search](#toggle-search)       | A dynamic search bar that appears on click and changes background for better focus.           |
 | [💬 Testimonials](#testimonials)         | A testimonial slider with next/previous navigation for viewing user feedback.                 |
+| [✅ Form Validation](#form-validation) | A beginner-friendly React form with real-time validations and conditional error messages. |
+
 
 ---
 
@@ -124,6 +126,24 @@ React, JavaScript, HTML, CSS
 
 > This project helps solidify array mapping, component reuse, and dynamic UI updates.
 
+---
+### ✅ <a name="form-validation"></a> Form Validation
+
+A beginner-friendly form built using React that validates:
+
+- 🔤 Username (minimum 8 characters)
+- 📧 Email (must end with `@gmail.com`)
+- 🔒 Password (minimum 8 characters)
+- 🔁 Confirm Password (must match the password)
+
+Each field gives real-time feedback on errors **after submission**.
+
+![form-validation](./images/formValidation.png) <!-- Optional image -->
+
+**Tech Used:**  
+React, JavaScript, HTML, CSS
+
+> This project is great for understanding form state management and real-world validation logic using React hooks.
 ---
 
 ### 📦 How to Run

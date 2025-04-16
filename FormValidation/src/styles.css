@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5%;
+}
+
+
+
+.container img{
+    width: 30vw;
+    border-radius: 8px;
+}
+
+form > div{
+    margin-bottom: 15px;
+}
+
+form{
+    min-width: 350px;
+}
+
+form input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+.error{
+    color:red
+}
+
+form input[type="submit"]{
+    cursor: pointer;
+}
