@@ -138,7 +138,7 @@ A beginner-friendly form built using React that validates:
 
 Each field gives real-time feedback on errors **after submission**.
 
-![form-validation](./images/formValidation.png) <!-- Optional image -->
+![form-validation](./images/FormValidation.png) <!-- Optional image -->
 
 **Tech Used:**  
 React, JavaScript, HTML, CSS
